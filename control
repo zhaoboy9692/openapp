@@ -2,7 +2,7 @@ Package: com.zxc.openapp
 Name: openapp
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome tool of some sort!!
+Description: 通过终端打开指定包名
 Maintainer: zxc
 Author: zxc
 Section: System
